@@ -17,4 +17,6 @@ T-tests were employed to evaluate the significance of differences in HA magnitud
 
 Upon successful training of ML prediction models, confusion matrices were utilized to offer a detailed breakdown of the model's predictions, highlighting correct predictions and types of errors (true positives, true negatives, false positives, and false negatives). This comprehensive view aided in understanding the model's strengths and weaknesses. Additionally, several scoring metrics, including F1 score, precision, and recall, were incorporated to assess and compare model performance. These metrics allowed for comparisons between traditional and deep learning models, particularly useful in scenarios with imbalanced classes, providing insights into how well each model handles such datasets (references in Bishop and Nasrabadi, 2006; Dasgupta, 2018).
 
+Results can be observed within the notebook files.
+
 If you have any further questions surrounding the context or implementation of this research project, please feel free to reach out !
